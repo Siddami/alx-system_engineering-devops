@@ -1,2 +1,2 @@
 #!/bin/bash
-[ "$(whoami)" != "root" ] && echo "hello $(whoami)"
+echo "hello $(USER)"
