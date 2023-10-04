@@ -1,2 +1,2 @@
 #!/bin/bash
-paste -d'\n' - - | cut -f1 | rev
+while read;do read;done
